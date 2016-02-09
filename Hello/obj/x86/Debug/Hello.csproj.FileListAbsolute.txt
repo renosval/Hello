@@ -5,4 +5,3 @@ C:\Users\User\Desktop\Hello\Hello\bin\Debug\Hello.exe
 C:\Users\User\Desktop\Hello\Hello\bin\Debug\Hello.pdb
 C:\Users\User\Desktop\Hello\Hello\obj\x86\Debug\Hello.exe
 C:\Users\User\Desktop\Hello\Hello\obj\x86\Debug\Hello.pdb
-C:\Users\User\Desktop\Hello\Hello\obj\x86\Debug\Hello.csprojResolveAssemblyReference.cache
